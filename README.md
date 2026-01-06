@@ -3,6 +3,12 @@
 
 This repository contains a collection of my **C++ projects and coding exercises** since my freshman year of college. These projects demonstrate my progression in **problem-solving, algorithms, and data structures**, as well as my growing understanding of software design principles.  
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)]()
+[![Build](https://img.shields.io/badge/Build-passing-brightgreen.svg)]()
+[![Standard](https://img.shields.io/badge/C%2B%2B-17-blue.svg)]()
+
+
 ---
 
 ## 🗂️ Project Categories
